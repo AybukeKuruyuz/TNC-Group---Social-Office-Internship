@@ -49,14 +49,20 @@ To perform an action, type a number between **1–5** and press **Enter**.
 
 ---
 
-## How to Run (Google Colab)
-1. **Open the Google Colab link**:  
-   [Open Colab Notebook](https://colab.research.google.com/drive/1Bt6nfYB4XdXofDoImtbXr9LYSYlIGYb8?usp=sharing)
+## How to Run (VS Code)
+1. **Download and install VS Code**:  
+   If you don't have **VS Code** installed, download and install it from [here](https://code.visualstudio.com/).
 
-2. **Run the code cell**:  
-   Press **CTRL + SHIFT + Enter** or click the **Run Cell** button.
+2. **Clone or open your project**:  
+   Open your project folder in **VS Code**. If you're using **GitHub**, you can clone the repo using the **Source Control** panel in VS Code.
 
-3. **Follow the on-screen menu** to manage your tasks.
+3. **Install Python Extension**:  
+   Make sure you have the **Python extension** installed in **VS Code**. You can find it in the Extensions tab on the left sidebar.
+
+4. **Run the program**:  
+   Open the **`main.py`** file, and press **Ctrl + Shift + P**, then type **Python: Select Interpreter** to select your Python environment. After that, press **F5** or go to **Run > Start Debugging** to run the program.
+
+5. **Follow the on-screen menu** to manage your tasks.
 
 ---
 
